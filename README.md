@@ -48,6 +48,8 @@ circuit.
 ![image](https://github.com/SrutiRaniPanda/Basic_Mobile_Charger/assets/149859901/b93f0166-74da-43f2-9277-c66fdce12309)
 
 **OBSERVATION and RESULT-**
+
+
 ![image](https://github.com/SrutiRaniPanda/Basic_Mobile_Charger/assets/149859901/ed446a1b-7681-42de-a223-36e9e3a9fa6e)
 
 **CONCLUSION**
