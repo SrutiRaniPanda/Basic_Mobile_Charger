@@ -16,7 +16,7 @@
 11) Soldering wire
 
 **Software used**-
- ltspice
+ LTSpice
 
 **THEORY**
 The charging circuit we are designing contains 3 main 
@@ -34,6 +34,8 @@ then by using a USB connector we give this input to the
 charging cable which is connected to the mobile. 
 When we switch on the circuit we can see the phone is 
 charging.
+
+![Screenshot (178)](https://github.com/SrutiRaniPanda/Basic_Mobile_Charger/assets/149859901/001c8a1a-93a1-4de6-a80f-6c2aa25565ea)
 
 **PROCEDURE**
 Create a circuit as shown below on a breadboard.
