@@ -1,5 +1,7 @@
 # Basic_Mobile_Charger
 
+![image](https://github.com/SrutiRaniPanda/Basic_Mobile_Charger/assets/149859901/f7e4b5be-ddaa-49df-8091-e3fe6939819c)
+
 **APPARATUS-**
 1) Transformer
 2) Connection wires
@@ -40,6 +42,11 @@ wave rectifier which is then connected to the IC7808
 transistor along with a few capacitors on the way in 
 parallel, and connect a load resistor complete the 
 circuit.
+
+![image](https://github.com/SrutiRaniPanda/Basic_Mobile_Charger/assets/149859901/b93f0166-74da-43f2-9277-c66fdce12309)
+
+**OBSERVATION and RESULT-**
+![image](https://github.com/SrutiRaniPanda/Basic_Mobile_Charger/assets/149859901/ed446a1b-7681-42de-a223-36e9e3a9fa6e)
 
 **CONCLUSION**
 Through this experiment, I learned the behavior of
